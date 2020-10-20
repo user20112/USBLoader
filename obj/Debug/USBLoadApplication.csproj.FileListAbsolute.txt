@@ -1,0 +1,15 @@
+C:\Users\devlin\source\repos\USBLoadApplication\bin\Debug\USBLoadApplication.exe.config
+C:\Users\devlin\source\repos\USBLoadApplication\bin\Debug\USBLoadApplication.exe
+C:\Users\devlin\source\repos\USBLoadApplication\bin\Debug\USBLoadApplication.pdb
+C:\Users\devlin\source\repos\USBLoadApplication\bin\Debug\Interop.PortableDeviceApiLib.dll
+C:\Users\devlin\source\repos\USBLoadApplication\bin\Debug\Interop.PortableDeviceTypesLib.dll
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.csprojAssemblyReference.cache
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\Interop.PortableDeviceApiLib.dll
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\Interop.PortableDeviceTypesLib.dll
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.csproj.ResolveComReference.cache
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.Form1.resources
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.Properties.Resources.resources
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.csproj.GenerateResource.cache
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.csproj.CoreCompileInputs.cache
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.exe
+C:\Users\devlin\source\repos\USBLoadApplication\obj\Debug\USBLoadApplication.pdb
